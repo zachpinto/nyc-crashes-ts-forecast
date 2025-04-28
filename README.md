@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/19684b2b-767f-492b-9d60-72bd7546466c)
 
+![image](https://github.com/user-attachments/assets/c980747d-60ea-4405-8510-0e4d8f4ce7a9)
+
 
 This repository contains a full project pipeline for analyzing historical vehicle crashes in New York City, 
 generating forecasts for future crashes, and visualizing results in an interactive dashboard. The dashboard allows users
